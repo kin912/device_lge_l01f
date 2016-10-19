@@ -1,0 +1,7 @@
+#
+# System.prop for the LG G2 (L01F)
+#
+
+# RIL
+telephony.lteOnGsmDevice=1
+ro.telephony.default_network=9
